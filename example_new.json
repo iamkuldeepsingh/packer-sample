@@ -1,0 +1,3 @@
+Error fixing: 1 error(s) decoding:
+
+* 'post-processors[0]' expected a map, got 'string'
